@@ -68,7 +68,7 @@ interface SentimentResponse {
 
 // ─── 定数 ────────────────────────────────────────────────────────────────────
 
-const API_BASE   = 'http://localhost:5001';
+const API_BASE   = 'https://investment-tool-api.onrender.com';
 const REFRESH_MS = 300_000; // 5分
 
 // ─── ユーティリティ ──────────────────────────────────────────────────────────
